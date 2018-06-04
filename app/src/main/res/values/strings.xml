@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Cobagetspiiner</string>
+    
+    <string-array name="spinner">
+        <item>Alfhan</item>
+        <item>Rizky</item>
+        <item>Fauzan</item>
+        <item>Tampan</item>
+        <item>Seadanya</item>
+    </string-array>
+
+    <string-array name="spinner1">
+        <item>Alfian</item>
+        <item>Fajriansyah</item>
+    </string-array>
+
+    <string-array name="spinner2">
+        <item>Latif</item>
+        <item>Mardjuki</item>
+    </string-array>
+
+</resources>
